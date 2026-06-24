@@ -6,6 +6,7 @@ This project combines trading system development with cybersecurity best practic
 
 ## Contributors
 Michelle Law : Cybersecurity & Risk Controls
+
 Michael Kennedy: Trading Strategy and Bot Development
 
 Features: 
